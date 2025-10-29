@@ -1,0 +1,16 @@
+{
+  "name": "pass-email-resend",
+  "version": "1.0.0",
+  "description": "Script para procesar usuarios y enviar emails de actualización de contraseña",
+  "main": "process-users.js",
+  "scripts": {
+    "start": "node process-users.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["keycloak", "email", "password", "users"],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

@@ -1,0 +1,19 @@
+[2025-10-28T17:13:26.259Z] === INICIANDO PROCESAMIENTO DE USUARIOS ===
+[2025-10-28T17:13:26.290Z] Se encontraron 64 IDs en el archivo
+[2025-10-28T17:13:26.290Z] Se procesarán 64 usuarios únicos
+[2025-10-28T17:13:26.291Z] Iniciando petición para usuario: 
+[2025-10-28T17:13:27.246Z] ✅ Usuario : Éxito - 204 No Content
+[2025-10-28T17:13:27.247Z] Progreso: 1/64 usuarios procesados
+[2025-10-28T17:13:27.248Z] Esperando 3 segundos antes de la siguiente llamada...
+[2025-10-28T17:13:30.256Z] Iniciando petición para usuario: 
+[2025-10-28T17:13:37.038Z] ✅ Usuario : Éxito - 204 No Content
+[2025-10-28T17:13:37.039Z] Progreso: 2/64 usuarios procesados
+[2025-10-28T17:13:37.040Z] Esperando 3 segundos antes de la siguiente llamada...
+[2025-10-28T17:17:13.129Z] Iniciando petición para usuario: 
+[2025-10-28T17:17:13.601Z] ✅ Usuario : Éxito - 204 No Content
+[2025-10-28T17:17:13.602Z] Progreso: 64/64 usuarios procesados
+[2025-10-28T17:17:13.603Z] === RESUMEN FINAL ===
+[2025-10-28T17:17:13.603Z] Total procesados: 64
+[2025-10-28T17:17:13.604Z] Éxitos: 64
+[2025-10-28T17:17:13.604Z] Errores: 0
+[2025-10-28T17:17:13.605Z] ✅ Procesamiento completado exitosamente
