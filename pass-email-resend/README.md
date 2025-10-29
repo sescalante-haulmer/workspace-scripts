@@ -19,8 +19,10 @@ Script de JavaScript para procesar usuarios y enviar emails de actualización de
 
 1. **Configura las variables en el script:**
    - `BASE_URL`: URL base de tu instancia de Keycloak
-   - `AUTH_TOKEN`: Token de autorización Bearer
-
+   - `AUTH_TOKEN`: Token de autorización Bearer (SAT)
+      - [Request en Postman de Haulmer](https://restless-firefly-1360-1.postman.co/workspace/My-Workspace~7e4d90f4-a266-4f91-8212-61db54df115f/request/13259166-e6afbe33-7032-4274-8122-304ee2700c88?action=share&source=copy-link&creator=13259166&ctx=documentation)
+      - [Documentación oficial ([SAT] Obtain accsess token from a service account)](https://documenter.getpostman.com/view/7294517/SzmfZHnd)
+        
 2. **Prepara el archivo de usuarios:**
    - Crea o edita `users.txt` con un ID de usuario por línea
    - Ejemplo:
